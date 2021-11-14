@@ -1,0 +1,34 @@
+
+{
+    "costInfoOptions": [
+        {
+            "period": "Today",
+            "name": "today",
+            "sum": "0,00"
+        },
+        {
+            "period": "Week",
+            "name": "week",
+            "sum": "0,00"
+        },
+        {
+            "period": "Month",
+            "name": "month",
+            "sum": "0,00"
+        } 
+    ],
+    "incomsInfoOptions": [
+        {
+            "period": "Month",
+            "name": "month",
+            "sum": "0,00"
+        } 
+    ],
+    "balanceInfoOptions": [
+        {
+            "period": "Total",
+            "name": "total",
+            "sum": "0,00"
+        }
+    ]
+}
